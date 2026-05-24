@@ -2,6 +2,7 @@
 #include <ctype.h>
 #include <string.h>
 
+//função perguntar
 int perguntar(
     char pergunta[],
     char altA[],
