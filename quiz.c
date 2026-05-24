@@ -48,12 +48,12 @@ int perguntar(
 
     if (resposta == correta)
     {
-        printf("Acertou!\n");
+        printf("Resposta correta!\n");
         return 1;
     }
     else
     {
-        printf("Errou!\n");
+        printf("Resposta errada!\n");
         return 0;
     }
 }
